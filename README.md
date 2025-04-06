@@ -1,3 +1,3 @@
 Nimai Kasibatla's User Page
 
-My favorite programming language is Java and Python.
+My favorite programming language is Java and Python
