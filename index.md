@@ -40,6 +40,12 @@ Here are a list of some of the skills I possess.
 ### Profile Picture 
 [My Profile Picture](images/profile.png)
 
+### Favorite Basketball Player 
+![Steph Curry](images/curry.jpg)
+
+### Favorite Interest Right Now
+![Stock Market](images/stockmarket.jpg)
+
 
 
 
